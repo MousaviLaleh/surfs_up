@@ -30,7 +30,7 @@ Taking the same steps for month of December, we did use Python, Pandas functions
 ## Summary
 The temperatures in December are slightly lower than June but suitable for a surf and ice cream shop business, and the most active station for June and December can be find by following analysis: <br/>
 - session.query(Measurement.prcp).filter(Measurement.station == 'USC00519281').filter(extract('month', Measurement.date) == 6).all()
-- session.query(Measurement.prcp).filter(Measurement.station == 'USC00519281').filter(extract('month', Measurement.date) == 12).aall()
+- session.query(Measurement.prcp).filter(Measurement.station == 'USC00519281').filter(extract('month', Measurement.date) == 12).all()
 
 <br/>
  

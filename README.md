@@ -17,6 +17,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, we did filter the da
 <br/>
 
 ![june.png](images/june.png)
+<br/>
 
 **- The Summary Statistics for December** <br/>
 Taking the same steps for month of December, we did use Python, Pandas functions and methods, and SQLAlchemy, filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December, then converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.

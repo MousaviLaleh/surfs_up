@@ -13,7 +13,7 @@ Analyze the temperature trends for the months of June and December in Oahu, in o
 ## Results
 This project was consist of two technical analysis:
 
-**- The Summary Statistics for June**<br/>
+**- ####The Summary Statistics for June**<br/>
 Using Python, Pandas functions and methods, and SQLAlchemy, we did filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. We then converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
 <br/>
 

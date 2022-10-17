@@ -19,7 +19,6 @@ This project was consist of two technical analysis:
   <tr>
     <td><img src="images/june.png" /></td>
     <td> </td>
-    
     <td><img src="images/december.png" /></td>
   </tr>
  </table>

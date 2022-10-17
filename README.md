@@ -17,10 +17,8 @@ This project was consist of two technical analysis:
 
 <table style="border-style: hidden;">
   <tr>
-    <td>Alfreds Futterkiste</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td><img src="images/june.png" /></td>
+    <td><img src="images/december.png" /></td>
   </tr>
  </table>
 

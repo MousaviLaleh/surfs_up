@@ -30,7 +30,6 @@ This project was consist of two technical analysis:
 - The average temperature in June is 75 degF whereas in December it is 71 degF. Also 50% of June and December temperatures are above 75 and 71 degF respectively.
 - Temperature in December are more spread out than in June since the standard deviation for December temperatures is higher.
 
-
 ## Summary
 The temperatures in December are slightly lower than June but suitable for a surf and ice cream shop business, and the most active station for June and December can be find by following analysis: <br/>
 - session.query(Measurement.prcp).filter(Measurement.station == 'USC00519281').filter(extract('month', Measurement.date) == 6).all()

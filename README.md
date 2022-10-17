@@ -14,19 +14,16 @@ Analyze the temperature trends for the months of June and December in Oahu, in o
 This project was consist of two technical analysis:
 
 ### - The Summary Statistics for June<br/>
-Using Python, Pandas functions and methods, and SQLAlchemy, we did filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. We then converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
-<br/>
 
 ![june.png](images/june.png)
 <br/>
-<br/>
-
-### - The Summary Statistics for December<br/>
-Taking the same steps for month of December, we did use Python, Pandas functions and methods, and SQLAlchemy, filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December, then converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
-<br/>
 
 ![december.png](images/december.png)
-
+ 
+<br/>
+- June temperatures range from 64 to 85 degF whereas December Temps range from 56 to 83 degF.
+- The average temperature in June is 75 degF whereas in December it is 71 degF. Also 50% of June and December temperatures are above 75 and 71 degF respectively.
+- Temperature in December are more spread out than in June since the standard deviation for December temperatures is higher.
 
 ## Summary
 The temperatures in December are slightly lower than June but suitable for a surf and ice cream shop business, and the most active station for June and December can be find by following analysis: <br/>

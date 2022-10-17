@@ -15,7 +15,7 @@ This project was consist of two technical analysis:
 
 ### - The Summary Statistics for June<br/>
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
     <th>Company</th>
     <th>Contact</th>

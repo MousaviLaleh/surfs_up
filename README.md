@@ -15,7 +15,7 @@ This project was consist of two technical analysis:
 
 ### - The Summary Statistics for June<br/>
 
-<table style="border-style: hidden;">
+<table align="center" style="border-style: hidden;">
   <tr>
     <td><img src="images/june.png" /></td>
     <td> </td>

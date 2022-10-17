@@ -18,6 +18,8 @@ This project was consist of two technical analysis:
 <table style="border-style: hidden;">
   <tr>
     <td><img src="images/june.png" /></td>
+    <td> </td>
+    
     <td><img src="images/december.png" /></td>
   </tr>
  </table>

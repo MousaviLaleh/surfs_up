@@ -12,8 +12,10 @@ Analyze the temperature trends for the months of June and December in Oahu, in o
 
 ## Results
 This project was consist of two technical analysis:
+- The Summary Statistics for June
+- The Summary Statistics for December
 
-### - The Summary Statistics for June<br/>
+<br/>
 
 <table align="center" style="border-style: hidden;">
   <tr>

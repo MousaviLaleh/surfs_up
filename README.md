@@ -15,20 +15,17 @@ This project was consist of two technical analysis:
 
 ### - The Summary Statistics for June<br/>
 
-   <table style="border-style: hidden;">
-        <tr>
-          <th>Company</th>
-         
-        </tr>
-        <tr>
-          <td>Alfreds Futterkiste</td>
-         
-        </tr>
-        <tr>
-          <td>Centro comercial Moctezuma</td>
-         
-        </tr>
-      </table>
+<table style="border-style: hidden;">
+  <tr>
+    <th>Company</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+  </tr>
+ </table>
 
 
 ![june.png](images/june.png)

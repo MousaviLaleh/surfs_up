@@ -23,12 +23,6 @@ This project was consist of two technical analysis:
   </tr>
  </table>
 
-
-![june.png](images/june.png)
-<br/>
-
-![december.png](images/december.png)
- 
 <br/>
 - June temperatures range from 64 to 85 degF whereas December Temps range from 56 to 83 degF.
 - The average temperature in June is 75 degF whereas in December it is 71 degF. Also 50% of June and December temperatures are above 75 and 71 degF respectively.

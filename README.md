@@ -17,9 +17,6 @@ This project was consist of two technical analysis:
 
 <table style="border-style: hidden;">
   <tr>
-    <th>Company</th>
-  </tr>
-  <tr>
     <td>Alfreds Futterkiste</td>
   </tr>
   <tr>
